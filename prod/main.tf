@@ -13,7 +13,7 @@ provider "aws" {
     default_tags {
         tags = {
             Owner   = "Ricardo Lacerda"
-            Env     = "Producao"
+            Env     = "PRD"
             Class   = "CLC10"
         }
     }
