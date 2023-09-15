@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - chage_name
     paths:
       - 'prod/**'
 
